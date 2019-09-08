@@ -1,0 +1,18 @@
+.window {
+  overflow: hidden;
+  width: 800px; 
+}
+
+.images {
+  display: flex;
+  transition: 1s;
+}
+
+.images>img {
+  width: 800px;
+}
+
+.buttonColor{
+  color: plum;
+  background-color: aqua;
+}
